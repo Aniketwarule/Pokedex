@@ -42,3 +42,7 @@ Short full-stack Pokedex built with Next.js App Router, TypeScript, Prisma (Post
 - `npm run typecheck` - run TypeScript checks.
 - `npm run lint` - run lint checks.
 - `npm run db:studio` - open Prisma Studio.
+
+## Prisma Studio Screenshot
+<img width="2055" height="1501" alt="image" src="https://github.com/user-attachments/assets/8efef2ad-d0eb-46ca-afc2-5c7b8328ca8f" />
+
